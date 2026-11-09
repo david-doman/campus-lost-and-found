@@ -1,5 +1,6 @@
 # campus-lost-and-found
 PROJECT PITCH
+
 A web app where students post lost or found items, search by category and location, and contact each other securely without exposing personal info.
 
 USER STORIES
