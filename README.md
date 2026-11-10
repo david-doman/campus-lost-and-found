@@ -1,9 +1,9 @@
 # campus-lost-and-found
-PROJECT PITCH
+# PROJECT PITCH
 
 A web app where students post lost or found items, search by category and location, and contact each other securely without exposing personal info.
 
-USER STORIES
+# USER STORIES
 
 Accounts
 
@@ -30,14 +30,14 @@ Admin
 
 - As an admin, I want to remove inappropriate posts so that the site stays safe.
 
-USE CASE DIAGRAM
+# USE CASE DIAGRAM
 
 ![Use case diagram](use-case-diagram.png)
 
-ERD
+# ERD
 
 ![Database ERD](erd.png)
 
-WIREFRAME
+# WIREFRAME
 
 ![Wireframes](wireframes.png)
