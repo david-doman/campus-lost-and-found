@@ -32,12 +32,12 @@ As a student, I want to register and log in so that I can post and message about
 
 # USE CASE DIAGRAM
 
-![Use case diagram](use-case-diagram.png)
+<img src="use-case-diagram.png" width="600" alt="Use case diagram">
 
 # ERD
 
-![Database ERD](erd.png)
+<img src="erd.png" width="600" alt="Use case diagram">
 
 # WIREFRAME
 
-![Wireframes](wireframes.png)
+<img src="wireframes.png" width="600" alt="Use case diagram">
